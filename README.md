@@ -14,6 +14,8 @@
 
 - helix
 
+## dev-tools
+
 - alacritty
 
 ## utility tools
